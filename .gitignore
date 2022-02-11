@@ -4,8 +4,10 @@
 *.pyc
 __pycache__
 media
-# Add again for course purpose
+# Add again for course purpose defa
+#
 !db.sqlite3
+*.waldemir
 
 # Backup files #
 *.bak
